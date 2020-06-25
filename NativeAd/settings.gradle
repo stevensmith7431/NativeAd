@@ -1,0 +1,2 @@
+rootProject.name='NativeAd'
+include ':app', ':nativetemplates'
